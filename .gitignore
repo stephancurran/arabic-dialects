@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+.venv/
+data/aravec/
+data/keywords_*
+data/lemmas_*
+farasa/
+data/MADAR-SHARED-TASK-final-release-25Jul2019/
