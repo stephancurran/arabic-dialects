@@ -5,3 +5,5 @@ data/keywords_*
 data/lemmas_*
 farasa/
 data/MADAR-SHARED-TASK-final-release-25Jul2019/
+data/data_dev.pkl
+data/data_train.pkl
